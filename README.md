@@ -16,7 +16,7 @@ Si le maintien de la distance est une excellente fonction de sécurité, l'opér
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](Diagram_Le_Patron_StoianVictor.drawio.png)
+![Block Diagram](LE_PATRON.drawio.png)
 
 ### Schematic
 
