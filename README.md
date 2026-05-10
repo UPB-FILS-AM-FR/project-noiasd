@@ -20,8 +20,9 @@ Si le maintien de la distance est une excellente fonction de sécurité, l'opér
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
-
+![Schematic](LE_PATRON_VICTOR.svg)
+![Photo du robot 1](WhatsApp%20Image%202026-05-10%20at%2017.45.54.jpeg)
+![Photo du robot 2](WhatsApp%20Image%202026-05-10%20at%2017.45.55.jpeg)
 ### Components
 
 
